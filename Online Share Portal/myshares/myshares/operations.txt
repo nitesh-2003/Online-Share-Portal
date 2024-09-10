@@ -1,0 +1,13 @@
+Login
+--------
+login.jsp
+User.java
+UserDAO.java 
+   int login(email,pwd)
+
+Registration
+------------
+register.jsp
+User.java
+UserDAO.java
+    boolean  register(email,pwd)

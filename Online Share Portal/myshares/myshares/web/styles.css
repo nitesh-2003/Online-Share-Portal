@@ -1,0 +1,28 @@
+body {
+    background-color:tan;
+    font-size:10pt;
+    font-family:verdana;
+}
+.header {
+    font-weight:bold;
+    font-size:25pt;
+    font-family:arial;
+    text-align:center;
+    letter-spacing:5pt;
+    background-color:blue;
+    color:white;
+}
+.menu {
+    font-weight:bold;
+    background-color:#dddddd;
+}
+
+.footer {
+    font-weight:bold;
+    font-size:10pt;
+    font-family:verdana;
+    text-align:center;
+    background-color:blue;
+    color:white;
+}
+
